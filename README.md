@@ -1,5 +1,7 @@
 # Intro 
-This project aims to solve four specific subtasks by implementing adaptive modifications and improvements to the DeepMimic codebase. Project rated with full marks.
+This project aims to solve four specific subtasks by implementing adaptive modifications and improvements to the DeepMimic codebase. 
+
+Project rated with full marks, [report](Report.pdf) available.
 
 The details of these four tasks are as follows:
 
