@@ -1,0 +1,5 @@
+--scene kin_char
+
+--character_file data/characters/bob.txt
+--kin_ctrl motion
+--motion_file data/motions/new_0005_BackwardsWalk001.txt
